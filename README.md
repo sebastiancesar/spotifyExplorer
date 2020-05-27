@@ -2,6 +2,8 @@
 
 This web app was created with create-react-app and using the template for typescript, lets you connect to your spotify account and retrieve your saved playlists.
 
+![screenCapture](https://github.com/sebastiancesar/spotifyExplorer/blob/master/Screen%20Shot%202020-05-27%20at%2013.29.02.png)
+
 It's part of a bigger project that is not finished yet.
 
 You need to create an App in the spotify dashboard in order to get the client-id.
